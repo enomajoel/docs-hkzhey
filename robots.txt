@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-o6ilhq.hartawin.online/sitemap.xml
